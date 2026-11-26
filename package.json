@@ -1,0 +1,1 @@
+{"description":"The funniest possible famous last words as a single tombstone epitaph (at most 150 characters) for the make.fun bounty.","license":"MIT","main":"main.ts","name":"famous-last-words-epitaph","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
